@@ -52,7 +52,7 @@ PROMOTION_BANNER_URL = "https://media.discordapp.net/attachments/142751688742784
 INFRACTION_BANNER_URL = "https://media.discordapp.net/attachments/1427516887427846204/1432073959506968759/Infractions.png?ex=68ffba4e&is=68fe68ce&hm=808f9a7fc30d3e1d81ec79eea1e2d6323b4d47cab8773bc9a6c24c43862092d1&=&format=webp&quality=lossless"
 ROLEPLAY_BANNER_URL= "https://media.discordapp.net/attachments/1427494059257233449/1432155262566793418/Game_log.png?ex=69000606&is=68feb486&hm=01bb72f8cea2e76f9ef49dd10b80d85ebde94f93228bf0b104da9bb46c82672c&=&format=webp&quality=lossless"
 # API Keys
-BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # ------------------------
 # Helper Functions
