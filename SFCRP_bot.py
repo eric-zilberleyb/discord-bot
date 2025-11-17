@@ -32,6 +32,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger('discord_bot')
 
+#test change
+
 # ------------------------
 # Constants
 # ------------------------
